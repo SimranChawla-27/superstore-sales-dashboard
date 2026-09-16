@@ -14,7 +14,7 @@ Power BI Desktop · DAX (implicit measures) · Data modeling · Conditional form
 
 ## Dashboard
 
-![superstore-sales-dashboard](Screenshot(1821).png)
+![superstore-sales-dashboard](Screenshot.png)
 
 ## Key Findings
 - **Total Sales: 2.30M | Total Profit: 286.40K | Total Quantity Sold: 38K** across the full dataset.
