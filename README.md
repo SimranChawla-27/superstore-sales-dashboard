@@ -10,11 +10,11 @@ Power BI Desktop · DAX (implicit measures) · Data modeling · Conditional form
 
 ## How to View
 - Screenshots of the dashboard are below.
-- To interact with it directly (use the filters/slicers), download `Superstore_Sales_Dashboard.pbix` and open it in [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads) (free, Windows only).
+- To interact with it directly (use the filters/slicers), download Superstore_Sales_Dashboard.pbix and open it in [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads) (free, Windows only).
 
 ## Dashboard
 
-![Superstore Sales Dashboard] Screenshot (1821).png 
+![Superstore Sales Dashboard](Screenshot(1821).png)
 
 ## Key Findings
 - **Total Sales: 2.30M | Total Profit: 286.40K | Total Quantity Sold: 38K** across the full dataset.
